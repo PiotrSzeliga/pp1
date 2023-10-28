@@ -1,12 +1,10 @@
-binary = input("Enter binary number: ")
+binary = input("Enter 4 digit binary number: ")
 decimal = 0
-b_list = list(binary)
-counter = len(b_list) - 1
-counterer = 0
-for d in b_list:
-    if list[counter] == 1:
-        decimal += 2**(counter)
-        counter -= 1
-        counterer += 1
-
+digit = 0
+for i in range(4):
+    if binary[digit] == "1":
+        decimal += 2**(3-i)
+        digit += 1
+    else:
+        digit += 1
 print(decimal)
