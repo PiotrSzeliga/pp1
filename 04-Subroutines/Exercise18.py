@@ -1,10 +1,12 @@
 def numbers(n): 
+     m = []
      for i in range(1,n+1):
-          print(i,end=" ")
+          m.append(str(i))
+     o = " ".join(m)
+     return o
 
-numbers(15)
-
-
+if __name__ == "__main__":
+     print(numbers(15))
      
      
 
