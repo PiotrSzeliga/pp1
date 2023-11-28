@@ -1,0 +1,6 @@
+stack
+LIFO (last in first out)
+last element is processed first
+first element is processed last
+[is like adding a plate on top of the stack and taking it off]
+

@@ -1,0 +1,5 @@
+queue
+FIFO (first in first out)
+first element is processed first and 
+the newest element is processed last
+[like adding plates to the top of the stack and taking out the bottom out]
