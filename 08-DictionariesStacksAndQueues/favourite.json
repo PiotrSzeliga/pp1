@@ -1,0 +1,12 @@
+{
+     "title": "Big Lebowski",
+     "year": "1998",
+     "actor": {
+          "leading": "Jeff Bridges",
+          "supporting": "John Goodman"
+     },
+     "oscar": false,
+     "genre": "comedy",
+     "runtime": "1 godz. 57 min",
+     "rating": "10/10"
+}
