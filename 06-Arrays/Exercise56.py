@@ -6,7 +6,6 @@ def flatominator(n):
     for x in array:
         for y in x:
             flat.append(y)
-    n = flat
-    return n
+    return flat
 
 print(flatominator(array))
