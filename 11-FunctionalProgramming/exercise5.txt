@@ -1,0 +1,6 @@
+Pure function:function that does not change any objects or variables that existed before it was called. Same inputs, same output
+Side effect: any changes in the state of the program or the environment that are not reflected in the function's output
+Higher order function: function that takes functions as arguments or returns a function as its result.
+First class function: when function is treated like any other variable
+Anonymous function: (lambda function) a function without a name
+Recursion: when a defined function calls itself
